@@ -1,0 +1,8 @@
+I want to eat lunch. D:\大二下\Java程序设计\程序\Draw\results\res0.txt
+I want to eat dinner. D:\大二下\Java程序设计\程序\Draw\results\res1.txt
+I want to eat apples. D:\大二下\Java程序设计\程序\Draw\results\res2.txt
+I like to do sports. D:\大二下\Java程序设计\程序\Draw\results\res3.txt
+ How to follow her as a guide! D:\大二下\Java程序设计\程序\Draw\results\res4.txt
+I want to eat apples. D:\大二下\Java程序设计\程序\Draw\results\res5.txt
+I want to eat apples. D:\大二下\Java程序设计\程序\Draw\results\res6.txt
+I want to eat lunch. D:\大二下\Java程序设计\程序\Draw\results\res7.txt
